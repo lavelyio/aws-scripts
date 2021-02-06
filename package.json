@@ -1,0 +1,19 @@
+{
+  "name": "aws-scripts",
+  "version": "1.0.0",
+  "description": "LavelyIO, AWS Setup and Automation Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavelyio/aws-scripts.git"
+  },
+  "author": "Josh Lavely <josh@lavely.io> (<josh@lavely.io>)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavelyio/aws-scripts/issues"
+  },
+  "homepage": "https://github.com/lavelyio/aws-scripts#readme"
+}
